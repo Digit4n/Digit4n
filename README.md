@@ -1,16 +1,19 @@
-## Hi there 👋
+# Hi 👋, I'm Digit4n
 
-<!--
-**Digit4n/Digit4n** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+### Horse
 
-Here are some ideas to get you started:
+- 🔭 I'm currently working on **Coding with portugol**
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+- 🌱 I'm currently learning **Logic programming & basic computer network**
+
+- 💬 Ask me about **Umamusume**
+
+- ⚡ Fun fact **biology is weird...**
+
+<h3 align="left">Connect with me:</h3>
+<p align="left">
+<a href="https://github.com/Digit4n" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/github.svg" alt="Digit4n" height="30" width="40" /></a>
+</p>
+----------------------------
+
+![image](https://media.tenor.com/53fytY95yAgAAAAi/agnes-digital-umamusume.gif)
